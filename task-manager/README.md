@@ -17,12 +17,17 @@ This project implements a simple Task Management application using React with Ty
 
 ## Setup
 
+### Clone the repository:
+
+```bash
+git clone [https://github.com/Tirumal-P/lumaa-spring-2025-swe.git](https://github.com/Tirumal-P/lumaa-spring-2025-swe.git)
+```
+
 ### Backend Setup
 
-1.  **Clone the repository:**
+1.  **Navigate to the backend directory:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-github-username]/[repo-name].git
-    cd [repo-name]/backend
+    cd backend
     ```
 
 2.  **Install dependencies:**
