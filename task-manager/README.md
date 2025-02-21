@@ -89,8 +89,6 @@ git clone [https://github.com/Tirumal-P/lumaa-spring-2025-swe.git](https://githu
 
 ## Testing
 
-(Describe any specific testing you've done.  For example:)
-
 *   Manual testing was performed to verify all CRUD operations and authentication.
 *   Can test the backend apis using postman
 
